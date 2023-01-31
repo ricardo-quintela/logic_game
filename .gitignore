@@ -1,0 +1,8 @@
+# venv
+venv/
+bin/
+lib/
+
+
+# pyhton cache files
+__pycache__/
